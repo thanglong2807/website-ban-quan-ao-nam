@@ -237,6 +237,7 @@ body{
     display: none;
     animation: sub-megaGrowth ease-in .3s ;
     top:190px;
+    z-index: 50;
 }
 .promotion::after{
     content: "";
