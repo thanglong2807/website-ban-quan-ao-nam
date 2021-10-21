@@ -313,6 +313,7 @@ body{
     margin: auto;
     display: flex;
     flex-direction: column;
+    
 }
 
 .product-img{
@@ -472,3 +473,5 @@ i.fas.fa-phone-square-alt {
     max-width: 1250px;
     margin: auto;
 }
+
+
