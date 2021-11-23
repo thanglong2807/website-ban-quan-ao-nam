@@ -28,7 +28,7 @@ body{
     width: 100px;
 }
 .header-logo-img{
-    width: 100%;
+    width: 200px;
 }
 .header-search {
     background-color: #f0f8ff;
@@ -318,7 +318,7 @@ body{
 
 .product-img{
     height: 356px;
-    
+    border-radius: 4px;
 }
 
 .product-row-1{
@@ -368,11 +368,13 @@ span.product-name {
 
 .product-gird-row-1 {
     display: flex;
+    justify-content: space-between;
 }
 .product-gird-row-container {
     position: relative;
     display: flex;
     flex-direction: column;
+    padding: 0;
 }
 
 .change-page-ul{
@@ -391,7 +393,7 @@ span.product-name {
 /* foodter */
 .fooder{
     width: 100%;
-    height: 500px;
+    height: 300px;
     
 }
 
