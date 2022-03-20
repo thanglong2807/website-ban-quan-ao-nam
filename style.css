@@ -44,6 +44,10 @@ body{
     padding: 0 20px;
     background-color: #f0f8ff;
 }
+.header-search:hover{
+    background-color: #7FFFD4;
+    
+}
 .header-search-input:focus{
     outline:0;
 }
